@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">   
-<a href="https://github.com/Ednut001/Arch-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ednut001/Arch-Md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Ednut001/Arch-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/Arch-Md?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Mclaren-Ex/SUKUNA_V1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Mclaren-Ex/SUKUNA_V1?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Mclaren-Ex/SUKUNA_V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Mclaren-Ex/SUKUNA_V1?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 <div align="center">
